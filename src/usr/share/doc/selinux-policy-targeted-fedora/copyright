@@ -1,0 +1,18 @@
+Copyright: GPLv2+
+
+Name        : selinux-policy-fedora
+Version     : 37.6
+Release     : 1.fc37
+Architecture: noarch
+Group       : selinux
+Size        : 18710692
+License     : GPLv2+
+Signature   : (none)
+Packager    : Fedora Project
+Vendor      : Fedora Project
+URL         : https://github.com/fedora-selinux/selinux-policy
+Bug URL     : https://bugz.fedoraproject.org/selinux-policy
+Summary     : SELinux targeted-fedora policy
+Description :
+SELinux targeted-fedora policy package.
+

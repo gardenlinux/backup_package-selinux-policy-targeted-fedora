@@ -1,0 +1,3 @@
+src/etc/selinux/* etc/selinux/
+src/usr/share/* etc/selinux/
+src/var/lib/selinux/* var/lib/selinux/
